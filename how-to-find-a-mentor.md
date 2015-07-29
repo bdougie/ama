@@ -15,3 +15,5 @@ I also am apart of a community here [apprenticeship.community](https://apprentic
 I don’t know of specific people available to be mentors, but I am pretty sure if you just put yourself out there you will be amazed to see the amount of people willing to help. 
 
 At the very least, I highly recommend joining the Apprenticeship Community 
+
+=> [Back to AMA](https://github.com/brianllamar/ama/blob/master/README.md)
