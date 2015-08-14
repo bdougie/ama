@@ -6,6 +6,9 @@ _Rules are simple, fork the repo add a question_
 - [What language do you think will give me the best opportunity succeed in the future?](https://github.com/brianllamar/ama/blob/master/best-language-to-succeed-in-the-future.md)
 - [What was the most helpful resource you used while starting out?](https://github.com/brianllamar/ama/tree/master)
 - [What (if any one thing) got you noticed by employers the most?](https://github.com/brianllamar/ama/blob/master/what-is-the-one-thing-that-got-you-noticed.md)
+
+_Thanks reaching out and let know if I can clarify anything or if you have more questions._
+
 ### Unanswered
 
 
