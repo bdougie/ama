@@ -1,3 +1,5 @@
+# How to find a mentor?
+
 During the short time I have been at this I have had a number of mentors, some I only had the opportunity to chat with once. It is definitely hard to get some one to meet with you on a regular basis, which is why I recommend impromptu/unofficial meetings. 
 
 This might be weird, but I would approach the idea of mentorship the way society does dating. If its an in person mentor, I recommend just chatting over coffee without laptops, pick their brain.
