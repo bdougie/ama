@@ -11,7 +11,7 @@ _Rules are simple, fork the repo add a question_
 - [What was your experience prior to Bloc?](https://github.com/bdougie/ama/blob/master/what-was-your-experience-prior.md)
 - [What do you do now, and is it what you expected? Day to day work, salary, etc..](https://github.com/bdougie/ama/blob/master/what-do-you-do-now.md)
 - [Did you feel prepared and supported when job hunting?](https://github.com/bdougie/ama/blob/master/did-you-feel-prepared.md)
-- If you could go back would you do it again or try a different route?(https://github.com/bdougie/ama/blob/master/would-you-do-it-again.md)
+- [If you could go back would you do it again or try a different route?](https://github.com/bdougie/ama/blob/master/would-you-do-it-again.md)
 
 _Thanks reaching out and let know if I can clarify anything or if you have more questions._
 
