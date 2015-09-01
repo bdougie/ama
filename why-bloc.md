@@ -16,3 +16,4 @@ Now being on the inside and hearing my recruiting talk about candidates, it is s
 
 I also offer a recommendation to people interested in bloc which I outlined in [this post](http://theblackc000000de.blogspot.com/2014/05/do-this-before-you-bloc.html), if you are interested. To some this task is easy, but this is one of the tutorials that left me in frustration when I was trying to learn on my own
 
+=> [Back to AMA](https://github.com/brianllamar/ama/blob/master/README.md)
