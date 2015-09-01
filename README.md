@@ -8,7 +8,7 @@ _Rules are simple, fork the repo add a question_
 - [What was the most helpful resource you used while starting out?](https://github.com/brianllamar/ama/tree/master)
 - [What (if any one thing) got you noticed by employers the most?](https://github.com/brianllamar/ama/blob/master/what-is-the-one-thing-that-got-you-noticed.md)
 - [Why did you end up choosing bloc?](https://github.com/bdougie/ama/blob/master/why-bloc.md)
-- [Why did you not choose Firehouse Project over Bloc?]()
+- [What was your experience prior to Bloc?]()
 
 _Thanks reaching out and let know if I can clarify anything or if you have more questions._
 
