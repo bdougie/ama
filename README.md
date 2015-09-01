@@ -8,7 +8,8 @@ _Rules are simple, fork the repo add a question_
 - [What was the most helpful resource you used while starting out?](https://github.com/brianllamar/ama/tree/master)
 - [What (if any one thing) got you noticed by employers the most?](https://github.com/brianllamar/ama/blob/master/what-is-the-one-thing-that-got-you-noticed.md)
 - [Why did you end up choosing bloc?](https://github.com/bdougie/ama/blob/master/why-bloc.md)
-- [What was your experience prior to Bloc?]()
+- [What was your experience prior to Bloc?](https://github.com/bdougie/ama/blob/master/what-was-your-experience-prior)
+- [What do you do now, and is it what you expected? Day to day work, salary, etc..](https://github.com/bdougie/ama/blob/master/what-do-you-do-now)
 
 _Thanks reaching out and let know if I can clarify anything or if you have more questions._
 
@@ -16,5 +17,4 @@ _Thanks reaching out and let know if I can clarify anything or if you have more 
 
 - How was the learning process- difficult/easy? What were your biggest challenges?
 - Did you feel prepared and supported when job hunting?
-- What do you do now, and is it what you expected? Day to day work, salary, etc..
 - If you could go back would you do it again or try a different route?
