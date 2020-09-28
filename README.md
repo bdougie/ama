@@ -1,6 +1,16 @@
 # FAQs
 _Rules are simple, fork the repo add a question_
 
+
+- How has your self-created blog helped to share your journey and how has it helped you in reflecting your accomplishments?
+- What was your path leading to your position at GitHub?
+- How did not having a computer science or programming related degree affect your career in computer science? (Was it difficult to "break into" the industry)?
+- What inspired you to start streaming?
+- What made you want to start your side project, Open Sauced?
+- How does plagiarism come into play with school or even in the workplace, if a lot of the code nowadays is open source?
+- What should I do to get into open source?
+- How do you make it so like other people can find your open source projects?
+- Did you ever feel like you wanted to give up? If so how did you get inspired to not give up?
 - [Was going through Bloc worth it?](https://github.com/brianllamar/ama/blob/master/was-bloc-worth-it.md)
 - [How do I find a mentor?](https://github.com/brianllamar/ama/blob/master/how-to-find-a-mentor.md)
 - [What language do you think will give me the best opportunity succeed in the future?](https://github.com/brianllamar/ama/blob/master/best-language-to-succeed-in-the-future.md)
