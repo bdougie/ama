@@ -1,5 +1,5 @@
 # FAQs
-_Rules are simple, fork the repo add a question_
+_Rules are simple, open an issue ask a question_
 
 
 - How has your self-created blog helped to share your journey and how has it helped you in reflecting your accomplishments?
