@@ -10,7 +10,7 @@ I have multiple mentors, people I would say are invested in my success as a dev.
 
 When I started learning GO and Ember specifically, I jumped into the community pretty hard. I joined slack groups and read tons of blog post to educate myself on them. I eventually met some pretty influential people in both communities that have helped me tremendously in learning both. 
 
-I met both almost by accident, but more so just by being vocal about what I was learning next. An Ember dev I was pairing with regularly offers a similar service to what I am doing with [Mutualfun](http://Mutualfun.io), called http://pair.withassociates.com/
+I met both almost by accident, but more so just by being vocal about what I was learning next. An Ember dev I was pairing with regularly offers a similar service to called http://pair.withassociates.com/(no longer avaliable).
 
 I also am apart of a community here [apprenticeship.community](https://apprenticeship.community/), which I was unaware prior to moving but the majority of them live here in Oakland, but available online.
 
