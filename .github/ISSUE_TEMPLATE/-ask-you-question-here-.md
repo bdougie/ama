@@ -1,5 +1,5 @@
 ---
-name: "[Ask you question here]"
+name: "[Ask a new question here.]"
 about: Ask your question using the issue title.
 title: ''
 labels: needs-answer
