@@ -19,11 +19,12 @@ _Rules are simple, open an issue ask a question_
 - [If you could go back would you do it again or try a different route?](https://github.com/bdougie/ama/blob/master/would-you-do-it-again.md)
 - [How did not having a computer science or programming related degree affect your career in computer science? (Was it difficult to "break into" the industry)?](https://youtu.be/a-LUKN-0c6c?t=356)
 - [What should I do to get into open source?](https://youtu.be/a-LUKN-0c6c?t=820)
+- [How do you make it so other people can find your open source projects?](https://www.youtube.com/watch?v=a-LUKN-0c6c&t=910s)
+- [How does plagiarism come into play with school or even in the workplace, if a lot of the code nowadays is open source?](https://www.youtube.com/watch?v=a-LUKN-0c6c&t=910s)
 
 
 _Thanks reaching out and let know if I can clarify anything or if you have more questions._
 
 ### Unanswered
 
-- How does plagiarism come into play with school or even in the workplace, if a lot of the code nowadays is open source?
-- How do you make it so other people can find your open source projects?
+_[Ask a new question.](https://github.com/bdougie/ama/issues/new/choose)_
