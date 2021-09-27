@@ -1,7 +1,7 @@
 ---
 name: "[Ask a new question here.]"
 title: 'Ask your question using the issue title'
-description: 'Ask me anything"
+description: 'Ask me anything'
 labels: needs-answer
 assignees: bdougie
 body:
