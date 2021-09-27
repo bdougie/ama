@@ -1,21 +1,14 @@
 ---
 name: "[Ask a new question here.]"
 about: Ask your question using the issue title.
-title: ''
+title: 'Ask your question using the issue title'
 labels: needs-answer
 assignees: bdougie
 body:
-- type: input
-  attributes:
-    label: Question 
-    description: What question can I answer for you?
-    placeholder: ex. Why is spaces better than tabs?
-  validations:
-    required: true
 - type: dropdown
   attributes:
-    label: Platform
-    description: Where should this video be posted? (You can choose multiple platforms, if needed)
+    label: Category
+    description: How would you categorize this question?
     multiple: true
     options:
       - Career
