@@ -1,6 +1,5 @@
 ---
 name: "[Ask a new question here.]"
-about: Ask your question using the issue title.
 title: 'Ask your question using the issue title'
 labels: needs-answer
 assignees: bdougie
